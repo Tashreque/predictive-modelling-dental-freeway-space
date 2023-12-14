@@ -1,0 +1,199 @@
+Predictor,SHAP value
+60s vertical,0.052871694468799746
+EMG clench TA-L,0.04640127890419187
+mle_intensity_ta_l,0.044380916227162885
+Weight (kg),0.04205361563805554
+Fricative vertical,0.03978942032370463
+JVA MAP right median frequency,0.03715181870464746
+JVA MLE right Integral ratio,0.03567865253867681
+Molar - molar maxilla ,0.03551182452308835
+chewing right side Lateral right,0.0348029318393075
+mmo_duration_mm_l,0.03429114016711026
+JVA MAP left peak amplitude,0.034159099188187894
+EMG clench MM-R,0.03217123604762072
+TH phonetics vertical,0.031100669279762346
+ROM Lateral left,0.030884674090656206
+ROM Slant,0.028871148072475705
+Arch perimeter maxilla,0.02874616058257516
+JVA MAP left integral,0.02861450666848854
+Overbite,0.02857215935611131
+JVA MAP right Integral ratio,0.027852547392798514
+chewing right side vertical,0.027770698116405233
+ROM Lateral right,0.02702914244442855
+JVA MAP left Integral ratio,0.02696608301969337
+map_duration_ta_r,0.026843143721282027
+Molar - molar mandible,0.02652528756810335
+map_duration_mm_r,0.02638144302895389
+60s Lateral left,0.026270432426216735
+Fricative Lateral left,0.025380253458224925
+ROM MAP,0.025355570911635997
+mmo_duration_da_r,0.025342022590814473
+EMG max TA-R,0.024663107842998612
+map_intensity_ta_l,0.024132728912194982
+chewing left side vertical,0.023793155837713905
+BP phonetics Lateral left,0.023682554095088865
+Sibilant Lateral right,0.02324855088489567
+mle_intensity_mm_r,0.023224867491758547
+Canine-canine maxilla,0.02297778446020846
+ROM vertical,0.0228466488690523
+map_intensity_ta_r,0.02274411336996535
+mmo_intensity_ta_l,0.02272732505957285
+chewing normal side Lateral right,0.022583040012986406
+JVA MMO right peak amplitude,0.02148495549426478
+TH phonetics Lateral left,0.02134686525849543
+chewing normal side vertical,0.021191025491505266
+Height (cm),0.02032774147291492
+JVA MLE left median frequency,0.020164755678916648
+Overjet ,0.020070626508376203
+EMG max TA-L,0.019701406521615936
+JVA MLE right median frequency,0.019701086529590295
+mmo_duration_da_l,0.01966937894072685
+Soft tissue Lateral left,0.0186112293338439
+mle_duration_ta_r,0.018560375617859594
+BP phonetics vertical,0.018299018553802355
+chewing left side Lateral left,0.018252344197813637
+JVA MAP right Integral >300Hz,0.01824970533597786
+Arch perimeter mandible,0.01777010730875973
+JVA MAP left Integral >300Hz,0.0177092061164673
+Age,0.017703816411829255
+Sibilant vertical,0.017686127354019712
+mmo_intensity_da_r,0.017421756796218064
+chewing right side Lateral left,0.017319617269352317
+JVA MMO left Integral ratio,0.017242310330964496
+JVA MLE right Integral >300Hz,0.016627752189593337
+chewing normal side Lateral left,0.016566677659205564
+map_intensity_da_l,0.0163585446025986
+TH phonetics Lateral right,0.01627183110865406
+Recurrent sinus infections_yes,0.016151706754627695
+JVA MMO left peak frequency,0.016088684444896667
+JVA MLE left peak frequency,0.01603257262019096
+mle_duration_da_l,0.016029044536729792
+JVA MLE left Integral ratio,0.016008067585706342
+Habitual Head tilt degree,0.015935260315158527
+mle_duration_mm_l,0.01583351966529389
+mmo_intensity_ta_r,0.015590323525170688
+mmo_duration_mm_r,0.01556230171445348
+map_duration_da_r,0.01543824016186768
+mmo_intensity_mm_r,0.015413029839342028
+Fricative protrusion,0.01529888285187394
+mle_duration_ta_l,0.015252651842393059
+Fricative Lateral right,0.015003637450579099
+JVA MAP left median frequency,0.014847538851935616
+map_intensity_mm_r,0.01481648247803321
+JVA MMO right median frequency,0.014769565368699897
+JVA MMO left median frequency,0.01467249041111207
+chewing left side Lateral right,0.0145168582464272
+TH phonetics protrusion,0.01420425890170399
+Sibilant protrusion,0.014107712709270023
+mmo_intensity_mm_l,0.01373819868139515
+JVA MLE right Integral <300Hz,0.01361567200302957
+JVA MLE left Integral >300Hz,0.013561138322753874
+60s protrusion,0.01345107334679707
+JVA MAP left Integral <300Hz,0.013207503857195498
+BP phonetics Lateral right,0.013187865792774263
+Clicking_yes,0.013174334205952272
+mle_intensity_ta_r,0.013161449373792435
+mmo_intensity_da_l,0.013050282122537837
+60s Lateral right,0.01276803413485444
+JVA MAP right peak amplitude,0.012670052522669242
+Canine-canine mandible,0.01258987162356236
+Soft tissue Lateral right,0.01254430090235123
+map_duration_mm_l,0.012481690209060254
+JVA MAP right Integral <300Hz,0.012381762717041611
+mle_duration_mm_r,0.01225840171720532
+Head tilting direction_straight,0.011931082455232875
+JVA MLE right integral,0.011861702601694122
+BP phonetics protrusion,0.011844571537889141
+BMI,0.011792402653113373
+JVA MAP left peak frequency,0.011790580034501986
+Sibilant Lateral left,0.011623252926459536
+EMG max MM-L,0.011613197890469015
+JVA MAP right peak frequency,0.01145622662385762
+map_intensity_da_r,0.01143890899786777
+JVA MLE left Integral <300Hz,0.011390415107543387
+EMG max MM-R,0.011368615647280146
+chewing left side protrusion,0.011365345434764071
+JVA MLE right peak frequency,0.011326527426790925
+Long term medication taken for condition_yes,0.010807923448927552
+mmo_duration_ta_l,0.010800670909884996
+JVA MLE left peak amplitude,0.01076095236918755
+mle_intensity_da_r,0.010659569840709739
+chewing normal  protrusion,0.010647815406922377
+Lockout_yes,0.01050769319017868
+mle_intensity_mm_l,0.01048430959944203
+JVA MMO left peak amplitude,0.010362923341247054
+Long term medication taken for condition_no,0.01027509342042287
+Head tilting direction_left,0.009939021369643551
+mmo_duration_ta_r,0.009915706535497022
+Bruxism_yes,0.00986969025636596
+JVA MMO right Integral >300Hz,0.009839767471571784
+JVA MMO right Integral <300Hz,0.009827994442850029
+JVA MAP right integral,0.009790509537035868
+3rd molars extracted,0.009736395491514104
+map_intensity_mm_l,0.009656090846192062
+JVA MMO right peak frequency,0.009521561727043939
+JVA MLE left integral,0.009492188791577639
+JVA MMO right Integral ratio,0.009335948277289298
+Bruxism_no,0.008694652209281648
+Asthma_yes,0.00846833494974271
+Clicking_no,0.008345059829474517
+mle_duration_da_r,0.008340100742393579
+chewing right side protrusion,0.008172463752263312
+mle_intensity_da_l,0.007805614705136179
+JVA MMO left Integral <300Hz,0.007800210973389868
+JVA MLE right peak amplitude,0.007532672792400923
+map_duration_da_l,0.007337742696077602
+JVA MMO right integral,0.007071044632626857
+Recurrent sinus infections_no,0.006688939157514878
+Orthodontic treatment_yes,0.006595209529281475
+blocked nose_yes,0.006431958327066609
+Dental filling in 2 years_yes,0.006317495874676175
+Orthodontic treatment_no,0.006243569803216134
+Jaw pain (in last 2 years)_yes,0.00614143813373548
+JVA MMO left integral,0.005687455359488176
+JVA MMO left Integral >300Hz,0.005547696545419976
+chapped lips_yes,0.005522407662869718
+Sleep apnoea/snoring_yes,0.004899096535162381
+Gender_male,0.0047927414009721605
+Lisp_yes,0.004662612434823341
+"Mental health modifiers (stress, depression, anxiety, ADHD)_yes",0.004583376078583545
+Dental filling in 2 years_no,0.004482004627137923
+Jaw pain (in last 2 years)_no,0.0042503643810625005
+Dry/ sticky mouth_yes,0.004177276424339355
+Jaw clenching_yes,0.004045595806448712
+Stammering_yes,0.003946807127509951
+Head tilting direction_right,0.0038015330606581224
+"Endocrine modifiers (Diabetes, PCOS, Ca Breast)_yes",0.003640649718393538
+Ethnicity_asian,0.003559382963351691
+Sinus surgery (adenoid or septal)_yes,0.00347361732110947
+nail or object biting_yes,0.0033772209326610805
+Ethnicity_caucasian,0.003219293890853009
+Lockout_no,0.003176959797055388
+Jaw clenching_no,0.0031313789662104504
+Inflammatory disorders (arthritis or eczyma)_yes,0.003041348981353133
+blocked nose_no,0.0029889224252593665
+Vit D deficiency_yes,0.0026965415813561214
+"Mental health modifiers (stress, depression, anxiety, ADHD)_no",0.0025845094382039645
+Asthma_no,0.0025490710153401146
+RCTs/crowns in 2 years_yes,0.002439181283026372
+Ethnicity_indian,0.0023109010382327475
+increased thirst_yes,0.002308223215513443
+Sinus surgery (adenoid or septal)_no,0.002231575241544866
+dysphagia_yes,0.0022014164598506167
+Hypertension or high cholesterol_yes,0.0021131673112398017
+Jaw Injuries_yes,0.0020094397073603778
+Dry/ sticky mouth_no,0.00197790391889896
+Gender_female,0.0019005022967807448
+Sleep apnoea/snoring_no,0.001735889756802136
+chapped lips_no,0.001453209848042836
+"Endocrine modifiers (Diabetes, PCOS, Ca Breast)_no",0.0013739804463193332
+nail or object biting_no,0.001307058472094573
+Vit D deficiency_no,0.001281503102603018
+Inflammatory disorders (arthritis or eczyma)_no,0.0010917471852624383
+dysphagia_no,0.0009056220243851036
+increased thirst_no,0.0006290026812487033
+Lisp_no,0.0004981539518535801
+RCTs/crowns in 2 years_no,0.0004417813227446458
+Jaw Injuries_no,0.0003903505228613538
+Stammering_no,0.0003620314477739157
+Hypertension or high cholesterol_no,0.0002706897949955454
