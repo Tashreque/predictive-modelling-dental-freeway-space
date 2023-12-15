@@ -1,3 +1,19 @@
+TVAE:
+
+- Embedding dimensions of (128, 256)
+- Compress dimensions of (128, 256)
+- Decompress dimensions of (128, 256).
+- Epochs: 500
+- Number of synthetic observations generated for validation: 200
+
+CTGAN:
+
+- Embedding dimensions of (256, 512)
+- Generator dimensions of (256, 512)
+- Discriminator dimensions of (128, 256).
+- Epochs: 500
+- Number of synthetic observations generated for validation: 200
+
 CATBOOST:
 
 depth: 3 to 6 with steps of 2
