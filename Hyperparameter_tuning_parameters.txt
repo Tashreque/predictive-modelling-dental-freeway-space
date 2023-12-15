@@ -1,0 +1,45 @@
+CATBOOST:
+
+depth: 3 to 6 with steps of 2
+iterations: 100, 500, 1000
+learning_rate: 0.001, 0.01, 0.03 and 0.1 
+l2 leaf regularisation: 1 to 7 with steps of 2
+
+XGBOOST:
+
+Maximum depth:  from 3 to 10 with steps of 2
+Minimum child weight: from 1 to 6 with steps of 2
+Number of trees: 1000
+Learning Rate: 0.001
+Alpha regularisation values of 0, 1 and 2
+
+RANDOM FOREST:
+
+Maximum depth: from 3 to 10 with steps of 2
+Number of trees: 100, 500, 1000
+Maximum number of features: number of features, square root of number of features and log2(number of features)
+
+ARCHITECTURES USED FOR MULTILAYER PERCEPTRON:
+
+Architecture 1:
+
+Hidden layer sizes of 100, 500, 200, 100
+Activation function of ReLU
+Adam optimizer
+Early stopping with a patience of 50
+Validation split proportion of 0.25 (25% of the training data as validation)
+Number of epochs = 1000
+
+Architecture 2 (Best model):
+
+Hidden layer sizes of 128, 512, 256, 64
+A 25% Dropout layer between the last hidden layer and the second last hidden layer (added to prevent overfitting)
+Activation function of ReLU
+Adam optimizer
+Early stopping with a patience of 50
+Validation split proportion of 0.25 (25% of the training data as validation)
+Number of epochs = 1000
+
+TABNET:
+
+TabNet was set with it’s default set of hyperparameters and was trained for 1000 epochs, but with early stopping and a patience of 100.
